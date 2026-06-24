@@ -568,3 +568,15 @@ footer p{
     }
 
 }
+
+.halal-info{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    margin-bottom:12px; /* espace normal avant la ligne suivante */
+}
+
+.halal-info img{
+    width:55px;
+    height:auto;
+}
